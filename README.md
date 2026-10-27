@@ -2,6 +2,14 @@
 
 M.Sc. student in Electrical Engineering (Control) at KFUPM. Interested in geometric mechanics, port-Hamiltonian systems, nonlinear control, and physics-guided learning for robotics.
 
+[Academic CV (PDF)](https://github.com/johnnyzxc5/johnnyzxc5/blob/main/assets/Johnny_Garcia_Academic_CV.pdf) · [ORCID](https://orcid.org/0009-0005-9107-2951)
+
+## Publications & Preprints
+
+| Preprint | Citation |
+| --- | --- |
+| [arXiv:2610.33679](https://arxiv.org/abs/2610.33679) | J. Garcia, N. Salguero, N. Iqbal, B. Brahmi, and R. Rashad, "Energy-Based Fault Detection and Isolation Framework for Flat Port-Hamiltonian Mechanical Systems," *arXiv preprint*, 2026. |
+
 ## Geometric robotics and simulation
 
 | Project | What it contains |
