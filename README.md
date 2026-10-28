@@ -23,6 +23,7 @@ M.Sc. student in Electrical Engineering (Control) at KFUPM. Interested in geomet
 | Project | What it contains |
 | --- | --- |
 | [SHAPE paper reproducibility](https://github.com/johnnyzxc5/SHAPE-paper-reproducibility) | Energy-based robot fault diagnosis using port-Hamiltonian modeling and physics-guided learning, with reproducibility resources. |
+| [Flatness-MPC paper reproducibility](https://github.com/johnnyzxc5/Flatness-MPC-paper-reproducibility) | Reproducible Flatness/LTV predictive-control simulations for robotic manipulators under actuator degradation, with table and figure generators. |
 | [ENERGY paper reproducibility](https://github.com/johnnyzxc5/ENERGY-paper-reproducibility) | Reproducible MATLAB analysis of wind-powered hydrogen potential across regions of Saudi Arabia. |
 
 ## Research tools
