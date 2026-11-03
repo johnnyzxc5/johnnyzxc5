@@ -1,6 +1,5 @@
 # Johnny Garcia
 
-M.Sc. student in Electrical Engineering (Control) at KFUPM. Interested in geometric mechanics, port-Hamiltonian systems, nonlinear control, and physics-guided learning for robotics.
 
 [Academic CV (PDF)](https://github.com/johnnyzxc5/johnnyzxc5/blob/main/assets/Johnny_Garcia_Academic_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=vLbm95EAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0005-9107-2951)
 
