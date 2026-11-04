@@ -4,6 +4,14 @@
   <img src="./assets/readme/hero_panda_session.gif" width="100%" alt="Johnny Garcia - Geometric Mechanics and Robotics Terminal Session" />
 </picture>
 
+<!-- INTERACTIVE TERMINAL COMMAND: CLICKABLE ACADEMIC IDENTIFIERS -->
+<div align="left" style="margin-top: 10px; margin-bottom: 24px;">
+  <code>~ $ open</code> &nbsp;
+  <a href="https://github.com/johnnyzxc5/johnnyzxc5/blob/main/assets/Johnny_Garcia_Academic_CV.pdf"><code>[ Academic CV (PDF) ] ↗</code></a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=vLbm95EAAAAJ&hl=en"><code>[ Google Scholar ] ↗</code></a> &nbsp;·&nbsp;
+  <a href="https://orcid.org/0009-0005-9107-2951"><code>[ ORCID: 0009-0005-9107-2951 ] ↗</code></a>
+</div>
+
 <br/>
 
 <!-- SECTION 01: PUBLICATIONS & PREPRINTS -->
@@ -82,6 +90,7 @@
 ```json
 {
   "researcher": "Johnny Garcia",
+  "origin": "Ecuador",
   "institution": "King Fahd University of Petroleum & Minerals (KFUPM)",
   "domains": [
     "Differential Geometry on Lie Groups SE(3)",
