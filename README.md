@@ -1,15 +1,15 @@
 <!-- JOHNNY GARCIA // ACADEMIC RESEARCH PROFILE -->
 
 <picture>
-  <img src="./assets/readme/hero_session.gif" width="100%" alt="Johnny Garcia - Geometric Mechanics and Robotics Terminal Session" />
+  <img src="./assets/readme/hero_terminal.gif" width="100%" alt="Johnny Garcia - Geometric Mechanics and Robotics Terminal Session" />
 </picture>
 
-<!-- INTERACTIVE TERMINAL COMMAND: CLICKABLE ACADEMIC IDENTIFIERS -->
+<!-- INTERACTIVE TERMINAL COMMAND: CLICKABLE ACADEMIC IDENTIFIERS (MOBILE-OPTIMIZED) -->
 <div align="left" style="margin-top: 10px; margin-bottom: 24px;">
   <code>~ $ open</code> &nbsp;
-  <a href="https://github.com/johnnyzxc5/johnnyzxc5/blob/main/assets/Johnny_Garcia_Academic_CV.pdf"><code>[ Academic CV (PDF) ] ↗</code></a> &nbsp;·&nbsp;
-  <a href="https://scholar.google.com/citations?user=vLbm95EAAAAJ&hl=en"><code>[ Google Scholar ] ↗</code></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/johnnygarciabet/"><code>[ LinkedIn ] ↗</code></a>
+  <a href="https://github.com/johnnyzxc5/johnnyzxc5/blob/main/assets/Johnny_Garcia_Academic_CV.pdf"><tt>academic-cv ↗</tt></a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=vLbm95EAAAAJ&hl=en"><tt>scholar ↗</tt></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/johnnygarciabet/"><tt>linkedin ↗</tt></a>
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 </a>
 
 <details>
-  <summary><code>❯ ./cat citation_bibtex.txt</code></summary>
+  <summary><tt><b>❯ ./cat citation_bibtex.txt</b></tt></summary>
 
 ```bibtex
 @article{garcia2026energy,
@@ -85,7 +85,7 @@
 
 <!-- RESEARCH STACK JSON DRAWER -->
 <details>
-  <summary><code>~ $ cat research_stack.json</code></summary>
+  <summary><tt><b>~ $ cat research_stack.json</b></tt></summary>
 
 ```json
 {
@@ -118,5 +118,5 @@
 <br/>
 
 <div align="center">
-  <sub><code>// REPOSITORY READMEs DOCUMENT NUMERICAL BENCHMARKS, ASSUMPTIONS, AND SCIENTIFIC LICENSING //</code></sub>
+  <sub><tt>// REPOSITORY READMEs DOCUMENT NUMERICAL BENCHMARKS, ASSUMPTIONS, AND SCIENTIFIC LICENSING //</tt></sub>
 </div>
