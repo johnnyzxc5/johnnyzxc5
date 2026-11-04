@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="263" height="30" viewBox="0 0 263 30" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="277" height="30" viewBox="0 0 277 30" role="img" aria-labelledby="title">
   <title id="title">Publications &amp; Preprints</title>
-  <text x="0" y="24" fill="#007378" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600">Publications &amp; Preprints</text>
+  <rect x="0" y="7" width="4" height="18" rx="2" fill="#CDEB4A"/>
+  <text x="14" y="24" fill="#087D7B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600">Publications &amp; Preprints</text>
 </svg>
