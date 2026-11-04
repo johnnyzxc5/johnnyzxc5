@@ -99,12 +99,13 @@
     "Flatness/LTV Model Predictive Control"
   ],
   "toolchain": [
+    "Python",
+    "C++",
+    "PyTorch",
     "MATLAB",
     "Simulink",
-    "Python",
-    "SymPy",
-    "Pinocchio",
-    "CasADi"
+    "SolidWorks (CAD)",
+    "ANSYS (CAE)"
   ],
   "publications": [
     "arXiv:2610.33679"
