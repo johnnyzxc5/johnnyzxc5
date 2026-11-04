@@ -1,36 +1,112 @@
-# <picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-name-dark.svg"><img src="assets/readme/text-name-light.svg" alt="Johnny Garcia" width="208"></picture>
+<!-- JOHNNY GARCIA // ACADEMIC RESEARCH PROFILE -->
 
+<picture>
+  <img src="./assets/readme/hero_panda_session.gif" width="100%" alt="Johnny Garcia - Geometric Mechanics and Robotics Terminal Session" />
+</picture>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-cv-dark.svg"><img src="assets/readme/text-cv-light.svg" alt="Academic CV (PDF)" width="136"></picture>](https://github.com/johnnyzxc5/johnnyzxc5/blob/main/assets/Johnny_Garcia_Academic_CV.pdf) · [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-scholar-dark.svg"><img src="assets/readme/text-scholar-light.svg" alt="Google Scholar" width="109"></picture>](https://scholar.google.com/citations?user=vLbm95EAAAAJ&hl=en) · [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-orcid-dark.svg"><img src="assets/readme/text-orcid-light.svg" alt="ORCID" width="50"></picture>](https://orcid.org/0009-0005-9107-2951)
+<br/>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-publications-dark.svg"><img src="assets/readme/text-publications-light.svg" alt="Publications &amp; Preprints" width="277"></picture>
+<!-- SECTION 01: PUBLICATIONS & PREPRINTS -->
+<picture><img src="./assets/readme/sec-01-publications.svg" width="100%" alt="01 // Publications &amp; Preprints"></picture>
 
-| Preprint | Citation |
-| --- | --- |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-arxiv-dark.svg"><img src="assets/readme/text-table-arxiv-light.svg" alt="arXiv:2610.33679" width="140"></picture>](https://arxiv.org/abs/2610.33679) | J. Garcia, N. Salguero, N. Iqbal, B. Brahmi, and R. Rashad, "Energy-Based Fault Detection and Isolation Framework for Flat Port-Hamiltonian Mechanical Systems," *arXiv preprint*, 2026. |
+<a href="https://arxiv.org/abs/2610.33679">
+  <picture><img src="./assets/readme/proj-01-fdi.svg" width="100%" alt="Preprint: Energy-Based Fault Detection and Isolation for Flat pHMS"></picture>
+</a>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-robotics-dark.svg"><img src="assets/readme/text-robotics-light.svg" alt="Geometric robotics and simulation" width="392"></picture>
+<details>
+  <summary><code>❯ ./cat citation_bibtex.txt</code></summary>
 
-| Project | What it contains |
-| --- | --- |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-glider-dark.svg"><img src="assets/readme/text-table-glider-light.svg" alt="Underwater Glider Geometric Simulator" width="165"></picture>](https://github.com/GeoGliderLab/underwater-glider-geometric-simulator) | SE(3) floating-base dynamics with moving internal masses, variable buoyancy, and MATLAB simulation. |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-panda-dark.svg"><img src="assets/readme/text-table-panda-light.svg" alt="Franka Panda Geometric Simulator" width="165"></picture>](https://github.com/johnnyzxc5/Franka-Panda-Geometric-Simulator) | Two formulations of 7-DoF robot dynamics: joint coordinates and global (S¹)⁷, with spatial RNEA and numerical validation. |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-kinova-dark.svg"><img src="assets/readme/text-table-kinova-light.svg" alt="Kinova Gen3 Geometric Simulator" width="188"></picture>](https://github.com/johnnyzxc5/Kinova-Gen3-Geometric-Simulator) | Joint-coordinate and global (S¹)⁶ dynamics for a 6-DoF manipulator, including continuous-joint topology and numerical benchmarks. |
+```bibtex
+@article{garcia2026energy,
+  title   = {Energy-Based Fault Detection and Isolation Framework for Flat Port-Hamiltonian Mechanical Systems},
+  author  = {Garcia, Johnny and Salguero, Nicolas and Iqbal, Noman and Brahmi, Brahim and Rashad, Ramy},
+  journal = {arXiv preprint arXiv:2610.33679},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2610.33679}
+}
+```
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-reproducibility-dark.svg"><img src="assets/readme/text-reproducibility-light.svg" alt="Research and reproducibility" width="327"></picture>
+</details>
 
-| Project | What it contains |
-| --- | --- |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-shape-dark.svg"><img src="assets/readme/text-table-shape-light.svg" alt="SHAPE paper reproducibility" width="117"></picture>](https://github.com/johnnyzxc5/SHAPE-paper-reproducibility) | Energy-based robot fault diagnosis using port-Hamiltonian modeling and physics-guided learning, with reproducibility resources. |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-flatness-dark.svg"><img src="assets/readme/text-table-flatness-light.svg" alt="Flatness-MPC paper reproducibility" width="161"></picture>](https://github.com/johnnyzxc5/Flatness-MPC-paper-reproducibility) | Reproducible Flatness/LTV predictive-control simulations for robotic manipulators under actuator degradation, with table and figure generators. |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-energy-dark.svg"><img src="assets/readme/text-table-energy-light.svg" alt="ENERGY paper reproducibility" width="118"></picture>](https://github.com/johnnyzxc5/ENERGY-paper-reproducibility) | Reproducible MATLAB analysis of wind-powered hydrogen potential across regions of Saudi Arabia. |
+<br/>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-tools-dark.svg"><img src="assets/readme/text-tools-light.svg" alt="Research tools" width="175"></picture>
+<!-- SECTION 02: GEOMETRIC ROBOTICS & SIMULATION -->
+<picture><img src="./assets/readme/sec-02-robotics.svg" width="100%" alt="02 // Geometric Robotics &amp; Simulation"></picture>
 
-| Project | What it contains |
-| --- | --- |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-literature-dark.svg"><img src="assets/readme/text-table-literature-light.svg" alt="literature-scout" width="122"></picture>](https://github.com/johnnyzxc5/literature-scout) | Academic literature discovery, local model screening, Zotero export, and optional NotebookLM integration. |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-revision-dark.svg"><img src="assets/readme/text-table-revision-light.svg" alt="paper-revision-skill" width="153"></picture>](https://github.com/johnnyzxc5/paper-revision-skill) | Evidence-grounded assistance for scientific writing and manuscript revision. |
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/text-table-compass-dark.svg"><img src="assets/readme/text-table-compass-light.svg" alt="phd-compass" width="113"></picture>](https://github.com/johnnyzxc5/phd-compass) | A local workspace for evidence-based PhD lab and supervisor research. |
+<a href="https://github.com/GeoGliderLab/underwater-glider-geometric-simulator">
+  <picture><img src="./assets/readme/proj-02-glider.svg" width="100%" alt="Underwater Glider Geometric Simulator"></picture>
+</a>
+<a href="https://github.com/johnnyzxc5/Franka-Panda-Geometric-Simulator">
+  <picture><img src="./assets/readme/proj-03-panda.svg" width="100%" alt="Franka Panda Geometric Simulator"></picture>
+</a>
+<a href="https://github.com/johnnyzxc5/Kinova-Gen3-Geometric-Simulator">
+  <picture><img src="./assets/readme/proj-04-kinova.svg" width="100%" alt="Kinova Gen3 Geometric Simulator"></picture>
+</a>
 
-Repository READMEs document assumptions, validation results, and licensing. Code licenses do not extend to manuscripts or third-party assets.
+<br/>
+
+<!-- SECTION 03: RESEARCH & REPRODUCIBILITY -->
+<picture><img src="./assets/readme/sec-03-reproducibility.svg" width="100%" alt="03 // Research &amp; Reproducibility"></picture>
+
+<a href="https://github.com/johnnyzxc5/SHAPE-paper-reproducibility">
+  <picture><img src="./assets/readme/proj-05-shape.svg" width="100%" alt="SHAPE paper reproducibility"></picture>
+</a>
+<a href="https://github.com/johnnyzxc5/Flatness-MPC-paper-reproducibility">
+  <picture><img src="./assets/readme/proj-06-flatness.svg" width="100%" alt="Flatness-MPC paper reproducibility"></picture>
+</a>
+<a href="https://github.com/johnnyzxc5/ENERGY-paper-reproducibility">
+  <picture><img src="./assets/readme/proj-07-energy.svg" width="100%" alt="ENERGY paper reproducibility"></picture>
+</a>
+
+<br/>
+
+<!-- SECTION 04: RESEARCH TOOLS & WORKFLOWS -->
+<picture><img src="./assets/readme/sec-04-tools.svg" width="100%" alt="04 // Research Tools &amp; Workflows"></picture>
+
+<a href="https://github.com/johnnyzxc5/literature-scout">
+  <picture><img src="./assets/readme/proj-08-literature.svg" width="100%" alt="literature-scout"></picture>
+</a>
+<a href="https://github.com/johnnyzxc5/paper-revision-skill">
+  <picture><img src="./assets/readme/proj-09-revision.svg" width="100%" alt="paper-revision-skill"></picture>
+</a>
+<a href="https://github.com/johnnyzxc5/phd-compass">
+  <picture><img src="./assets/readme/proj-10-compass.svg" width="100%" alt="phd-compass"></picture>
+</a>
+
+<br/>
+
+<!-- RESEARCH STACK JSON DRAWER -->
+<details>
+  <summary><code>~ $ cat research_stack.json</code></summary>
+
+```json
+{
+  "researcher": "Johnny Garcia",
+  "institution": "King Fahd University of Petroleum & Minerals (KFUPM)",
+  "domains": [
+    "Differential Geometry on Lie Groups SE(3)",
+    "Flat Port-Hamiltonian Mechanical Systems (pHMS)",
+    "Energy-Based Fault Detection & Isolation (FDI)",
+    "Flatness/LTV Model Predictive Control"
+  ],
+  "toolchain": [
+    "MATLAB",
+    "Simulink",
+    "Python",
+    "SymPy",
+    "Pinocchio",
+    "CasADi"
+  ],
+  "publications": [
+    "arXiv:2610.33679"
+  ]
+}
+```
+
+</details>
+
+<br/>
+
+<div align="center">
+  <sub><code>// REPOSITORY READMEs DOCUMENT NUMERICAL BENCHMARKS, ASSUMPTIONS, AND SCIENTIFIC LICENSING //</code></sub>
+</div>
