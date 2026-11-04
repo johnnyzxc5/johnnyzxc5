@@ -9,7 +9,7 @@
   <code>~ $ open</code> &nbsp;
   <a href="https://github.com/johnnyzxc5/johnnyzxc5/blob/main/assets/Johnny_Garcia_Academic_CV.pdf"><code>[ Academic CV (PDF) ] ↗</code></a> &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=vLbm95EAAAAJ&hl=en"><code>[ Google Scholar ] ↗</code></a> &nbsp;·&nbsp;
-  <a href="https://orcid.org/0009-0005-9107-2951"><code>[ ORCID: 0009-0005-9107-2951 ] ↗</code></a>
+  <a href="https://www.linkedin.com/in/johnnygarciabet/"><code>[ LinkedIn ] ↗</code></a>
 </div>
 
 <br/>
