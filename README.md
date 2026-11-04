@@ -1,7 +1,7 @@
 <!-- JOHNNY GARCIA // ACADEMIC RESEARCH PROFILE -->
 
 <picture>
-  <img src="./assets/readme/hero_panda_session.gif" width="100%" alt="Johnny Garcia - Geometric Mechanics and Robotics Terminal Session" />
+  <img src="./assets/readme/hero_session.gif" width="100%" alt="Johnny Garcia - Geometric Mechanics and Robotics Terminal Session" />
 </picture>
 
 <!-- INTERACTIVE TERMINAL COMMAND: CLICKABLE ACADEMIC IDENTIFIERS -->
