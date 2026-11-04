@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="68" viewBox="0 0 960 68" role="img">
-  <!-- Number -->
-  <text x="0" y="27" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13.5" font-weight="700" fill="#50555e">04</text>
-  <!-- Command string (large bold white monospace) -->
-  <text x="42" y="27" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15.5" font-weight="700" fill="#FFFFFF">cd ~/robotics/kinova-gen3-geometric-simulator</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="72" viewBox="0 0 960 72" role="img">
+  <!-- Number (+1pt) -->
+  <text x="0" y="29" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14.5" font-weight="700" fill="#50555e">04</text>
+  <!-- Command string (large bold white monospace, +1pt) -->
+  <text x="44" y="29" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16.5" font-weight="700" fill="#FFFFFF">cd ~/robotics/kinova-gen3-geometric-simulator</text>
   <!-- Arrow (far right) -->
-  <text x="940" y="29" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" font-weight="400" fill="#FFFFFF">↗</text>
-  <!-- Subtitle (concise uppercase description) -->
-  <text x="42" y="49" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" font-weight="400" letter-spacing="0.5px" fill="#8b949e">JOINT-COORDINATE &amp; GLOBAL (S¹)⁶ DYNAMICS FOR 6-DOF KINOVA GEN3 ARM</text>
+  <text x="938" y="32" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="19" font-weight="400" fill="#FFFFFF">↗</text>
+  <!-- Subtitle (+1pt, font 12.5) -->
+  <text x="44" y="53" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12.5" font-weight="400" letter-spacing="0.4px" fill="#8b949e">JOINT-COORDINATE &amp; GLOBAL (S¹)⁶ DYNAMICS FOR 6-DOF KINOVA GEN3 ARM</text>
   <!-- Single hairline divider at bottom -->
-  <line x1="0" y1="67" x2="960" y2="67" stroke="#21262d" stroke-width="1"/>
+  <line x1="0" y1="71" x2="960" y2="71" stroke="#21262d" stroke-width="1"/>
 </svg>
